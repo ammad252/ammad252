@@ -1,6 +1,6 @@
 # Ammad Saleem
 
-# H2 Full-Stack Developer | Freelance Android & Web Developer | Data Analyst & Machine Learning    
+### Full-Stack Developer | Freelance Android & Web Developer | Data Analyst & Machine Learning    
 
 
 I am a **Computer Science graduate (BCS)** with **6 months of freelancing experience**, working with clients from the **United States**. My focus is on building **user-friendly Android apps**, designing **clean XML layouts**. I enjoy turning ideas into **scalable, efficient solutions** and continuously improving my technical skills.  
